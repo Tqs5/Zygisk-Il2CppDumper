@@ -8,3 +8,4 @@
 #define GamePackageName "com.game.packagename"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
+#define DUMP_DELAY 10000
